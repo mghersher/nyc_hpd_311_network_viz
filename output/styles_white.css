@@ -1,0 +1,5 @@
+.sankey .node-label-text-path {
+    text-shadow: none;
+    fill: #000000 !important;
+    font-weight: bold;
+  }

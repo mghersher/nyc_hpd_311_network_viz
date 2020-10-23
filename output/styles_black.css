@@ -1,0 +1,4 @@
+.sankey .node-label-text-path {
+    text-shadow: none;
+    fill: #fff !important;
+  }
