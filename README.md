@@ -11,6 +11,9 @@ There are two main notebooks in this repo:
 
 The visualizations that these notebooks produce can be found in output as .html files. 
 
+### Where to find visualizations
+The notebooks generate HTML versions of the visualizations that can be found in the output folder and downloaded/loaded into your browser. The notebooks also use the Plotly API to publish the visualizations to the Plotly website. You can find the URLs of these visualizations following the cells of the form: `py.plot(fig, filename = [filename], auto_open=True)`. To use the structure of these notebooks to publish your own graphs you will need to create a credentials.json file containing their plotly username and API key.
+
 ### Primary packages
 The notebooks rely heavily on the following packages:
 - pandas 0.25.3
