@@ -20,4 +20,6 @@ The notebooks rely heavily on the following packages:
 - plotly 4.11.0
 - networkx 2.5
 
+### More information
+You can read more about this project here: https://studentwork.prattsi.org/infovis/visualization/text-analysis-through-network-visualization-examining-patterns-in-how-nyc-handles-311-housing-complaints/
 
